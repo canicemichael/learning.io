@@ -1,0 +1,38 @@
+.keepers {
+    background-color: #1bbc96;
+    color: greenyellow;
+}
+.spec {
+    background-color: #1bbc96;
+    color: greenyellow;
+}
+
+.site-header {
+    background-color: #1bbc96;
+    color:#ecfdf9;
+    height: 200vh;
+    font-family: Courier New, Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-header-content{
+    margin: 10px;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    box-shadow: black 2px 5px 5px;
+}
+
+.course-link {
+    color:#ecfdf9;
+}
+
+.body {
+    margin: 0;
+}
