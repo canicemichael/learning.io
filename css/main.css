@@ -10,7 +10,7 @@
 .site-header {
     background-color: #1bbc96;
     color:#ecfdf9;
-    height: 200vh;
+    height: 100vh;
     font-family: Courier New, Courier, monospace;
     display: flex;
     flex-direction: column;
